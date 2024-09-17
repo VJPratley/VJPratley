@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my GitHub
+
+I am a theoretical physicist by training and love all things maths, stats and coding.
+
+I have decided to venture into the world of finance, ML and AI. Here is a collection of my projects as I learn and explore this new world.
+
 
 <!--
 **VJPratley/VJPratley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
